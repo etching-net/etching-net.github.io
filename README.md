@@ -1,4 +1,4 @@
-# DIGITAL ARTIFACTS INDEX
+# DIGITAL ARTIFACT INDEX
 ###### *knowledge and culture on the immutable ledger of Bitcoin*
 
 ### What is this?
