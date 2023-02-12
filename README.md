@@ -2,7 +2,7 @@
 
 ### What is this?
 
-**Etching.net** is a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that exemplify longstanding cultural value. Anyone can contribute a record to the index.
+**Etching.net** is a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that exemplify longstanding cultural value. Anyone can contribute a record of historical significance to the index.
 
 A [project to inscribe important information](https://github.com/users/etching-net/projects/1) on the Bitcoin network base layer is also organized here. You can learn more about the underlying technology at the [Ordinals website](https://ordinals.com).
 
