@@ -41,4 +41,4 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 
 | Ordinal_int | Title                                                | Type     |
 | -----------:| ---------------------------------------------------- |:--------:|
-| 0 | Bitcoin genesis satoshi | SCIENCE |
+| [0](https://ordinals.com/sat/0) | Bitcoin genesis satoshi | SCIENCE |
