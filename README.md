@@ -39,8 +39,8 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 
 ## BITCOIN ARTIFACTS BY ORDINAL
 
-| Ordinal_int | Title                                                | Medium | Field     |
-| -----------:| ---------------------------------------------------- |:------:|:--------:|
+| Ordinal | Title                                                | Medium | Field     |
+| -------:| ---------------------------------------------------- |:------:|:---------:|
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
 | [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | TEXT | SCIENCE |
 | [1922840005913310](https://ordinals.com/sat/1922840005913310) | CONSTITUTION OF THE UNITED STATES | TEXT | HISTORY |
