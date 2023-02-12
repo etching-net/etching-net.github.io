@@ -9,7 +9,7 @@ A [project to inscribe important information](https://github.com/users/etching-n
 
 ### Why though?
 
-The etching.net mission is to preserve humanity's hard-won knowledge on the blockchain, like a time-capsule, in order to reduce the potential damage to civilization in the case of a catastrophic event.
+The mission of etching.net is to preserve humanity's hard-won knowledge on the blockchain, like a time-capsule, in order to reduce the potential damage to civilization in the case of a catastrophic event.
 
 These records can also serve as a rich library for learning anywhere in the world today, as well as in the far, uncertain future.
 
