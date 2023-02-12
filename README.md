@@ -27,12 +27,17 @@ You. Yes, you! This effort would be impossibly time-consuming and expensive for 
 
 Here are three ways you can help right now:
 
-1) [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list. (Fields: ART, HISTORY, HOW-TO, RELIGION, SCIENCE)
+1. [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list.  
+   Fields: ART, HISTORY, HOW-TO, RELIGION, SCIENCE  
+   Media: TEXT, IMAGE, AUDIO, VIDEO, OTHER
 
-2) [**INSCRIBE**](https://github.com/users/etching-net/projects/1) – Suggest an inscription, review the content of a proposal in progress, or inscribe a new digital artifact yourself.
+2. [**INSCRIBE**](https://github.com/users/etching-net/projects/1) – Suggest an inscription,  
+   review the content of a proposal in progress, or  
+   inscribe a new digital artifact yourself.
 
-3) [**SUPPORT**](https://getmonero.org) – Fund new inscriptions by donating Monero (XMR) to the address below.
-`85s5L3p44AYBNTcmoPjTeygjMgXLbEAW6Fuf4qC1ZiymgeqCnqDhy7cToNMeFRU7zZZtAHndnW1bcF7NNwJkFBdg84gqrMZ`
+3. [**SUPPORT**](https://getmonero.org) – Fund new inscriptions  
+   by donating Monero (XMR) to the address below.  
+    `85s5L3p44AYBNTcmoPjTeygjMgXLbEAW6Fuf4qC1ZiymgeqCnqDhy7cToNMeFRU7zZZtAHndnW1bcF7NNwJkFBdg84gqrMZ`
 
 Good luck! May you enjoy a peaceful day of good health and a night of happy dreams 🙂
 
