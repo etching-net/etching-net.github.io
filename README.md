@@ -27,7 +27,7 @@ You. Yes, you! This effort would be impossibly time-consuming and expensive for 
 
 Here are three ways you can help right now:
 
-1) [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list. (Types: ART, HISTORY, HOW-TO, RELIGION, SCIENCE)
+1) [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list. (Fields: ART, HISTORY, HOW-TO, RELIGION, SCIENCE)
 
 2) [**INSCRIBE**](https://github.com/users/etching-net/projects/1) – Suggest an inscription, review the content of a proposal in progress, or inscribe a new digital artifact yourself.
 
@@ -39,7 +39,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 
 ## BITCOIN ARTIFACTS BY ORDINAL
 
-| Ordinal_int | Title                                                | Medium | Type     |
+| Ordinal_int | Title                                                | Medium | Field     |
 | -----------:| ---------------------------------------------------- |:------:|:--------:|
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
 | [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | TEXT | SCIENCE |
