@@ -3,7 +3,7 @@
 
 ### What is this?
 
-**Etching.net** is a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that exemplify longstanding cultural value. Anyone can contribute a record of historical significance to the index.
+**Etching.net** offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that exemplify longstanding cultural value. Anyone can contribute a record of historical significance to the index.
 
 A [project to inscribe important information](https://github.com/users/etching-net/projects/1) on the Bitcoin network base layer is also organized here. You can learn more about the underlying technology at the [Ordinals website](https://ordinals.com).
 
@@ -24,7 +24,7 @@ The vision is to start small and simple, promote steady contributions through or
 
 ### Who contributes?
 
-You. Yes, you! This effort would be impossibly time-consuming and expensive for an individual, but it's great fun to chip away at as part of a global community.
+You. Yes, you! This undertaking would be impossibly time-consuming and expensive for an individual, but it's great fun to chip away at as part of a global community.
 
 Here are three ways you can help right now:
 
@@ -33,17 +33,17 @@ Here are three ways you can help right now:
    Media: TEXT, IMAGE, AUDIO, VIDEO, OTHER
 
 2. [**INSCRIBE**](https://github.com/users/etching-net/projects/1) – Suggest an inscription,  
-   review the content of a proposal in progress, or  
-   inscribe a new digital artifact yourself.
+   review the content of a proposal in progress,  
+   or inscribe a new digital artifact yourself.
 
 3. [**SUPPORT**](https://getmonero.org) – Fund new inscriptions  
    by donating Monero (XMR) to the address below.  
-    `85s5L3p44AYBNTcmoPjTeygjMgXLbEAW6Fuf4qC1ZiymgeqCnqDhy7cToNMeFRU7zZZtAHndnW1bcF7NNwJkFBdg84gqrMZ`
+    `8C6s3puMLw2djCDVNGeeWyQDUL3RJrivMK5KNxqsviJdfADtXPsuyxXRYMRdAMgy6m2gHC4kdqPrqNhPcdqr8AeSKXAgm6J`
 
 Good luck! May you enjoy a peaceful day of good health and a night of happy dreams 🙂
 
 
-## BITCOIN ARTIFACTS BY ORDINAL
+## DIGITAL ARTIFACT INDEX
 
 | Ordinal | Artifact                                             | Medium | Field     |
 | -------:| ---------------------------------------------------- |:------:|:---------:|
