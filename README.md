@@ -1,5 +1,5 @@
 # DIGITAL ARTIFACT INDEX
-###### *seminal knowledge and culture on the immutable ledger of Bitcoin*
+###### *Preserving seminal knowledge and culture on the immutable ledger of Bitcoin*
 
 ### What is this?
 
