@@ -1,18 +1,17 @@
 # DIGITAL ARTIFACT INDEX
-###### *knowledge and culture on the immutable ledger of Bitcoin*
+###### *seminal knowledge and culture on the immutable ledger of Bitcoin*
 
 ### What is this?
 
-**Etching.net** offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that exemplify longstanding cultural value. Anyone can contribute a record of historical significance to the index.
-
-A [project to inscribe important information](https://github.com/users/etching-net/projects/1) on the Bitcoin network base layer is also organized here. You can learn more about the underlying technology at the [Ordinals website](https://ordinals.com).
+**Etching.net** offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that preserve seminal works with longstanding cultural value.  
+Anyone can contribute a record to the index!
 
 
 ### Why though?
 
-The mission of etching.net is to preserve humanity's hard-won knowledge on the blockchain, like a time-capsule, in order to reduce the potential damage to civilization in the case of a catastrophic event.
+The mission of etching.net is to safeguard humanity's hard-won knowledge on the blockchain, like a time-capsule, in order to reduce the potential damage to civilization in the case of a catastrophic event.
 
-These records can also serve as a rich library for learning anywhere in the world today, as well as in the far, uncertain future.
+These records can also serve as a rich public library for learning anywhere in the world today, as well as in the far, uncertain future.
 
 
 ### How is it different from other NFTs?
@@ -29,12 +28,12 @@ You. Yes, you! This undertaking would be impossibly time-consuming and expensive
 Here are three ways you can help right now:
 
 1. [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list.  
-   Fields: ART, HISTORY, HOW-TO, RELIGION, SCIENCE  
-   Media: TEXT, IMAGE, AUDIO, VIDEO, OTHER
+   **Fields**: ART, HISTORY, HOW-TO, RELIGION, SCIENCE  
+   **Media**: TEXT, PDF, IMAGE, AUDIO, VIDEO, OTHER  
+   ([More about Ordinals](https://ordinals.com/), including how to inscribe a digital artifact yourself...)  
 
-2. [**INSCRIBE**](https://github.com/users/etching-net/projects/1) – Suggest an inscription,  
-   review the content of a proposal in progress,  
-   or inscribe a new digital artifact yourself.
+2. [**SHARE**](http://etching.net) - Tell your friends (especially the doubters!) to visit [etching.net](http://etching.net)  
+   so they can see for themselves what blockchain technology is doing for people across the world.
 
 3. [**SUPPORT**](https://getmonero.org) – Fund new inscriptions  
    by donating Monero (XMR) to the address below.  
@@ -48,7 +47,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | Ordinal | Artifact                                             | Medium | Field     |
 | -------:| ---------------------------------------------------- |:------:|:---------:|
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
-| [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | TEXT | SCIENCE |
+| [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | PDF | SCIENCE |
 | [1922840005913310](https://ordinals.com/sat/1922840005913310) | CONSTITUTION OF THE UNITED STATES | TEXT | HISTORY |
 | [1922840005901100](https://ordinals.com/sat/1922840005901100) | DELARATION OF INDEPENDENCE | TEXT | HISTORY |
 | [1447382445812188](https://ordinals.com/sat/1447382445812188) | DELARATION OF INDEPENDENCE | IMAGE | HISTORY |
