@@ -27,7 +27,7 @@ You. Yes, you! This undertaking would be impossibly time-consuming and expensive
 
 Here are three ways you can help right now:
 
-1. [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the ordinal of an existing digital artifact to be included in the list.  
+1. [**INDEX**](https://github.com/etching-net/etching-net.github.io/edit/main/README.md) – Add the Ordinal of an existing digital artifact to be included in the list.  
    **Fields**: ART, HISTORY, HOW-TO, RELIGION, SCIENCE  
    **Media**: TEXT, PDF, IMAGE, AUDIO, VIDEO, OTHER  
    ([More about Ordinals](https://ordinals.com/), including how to inscribe a digital artifact yourself...)  
