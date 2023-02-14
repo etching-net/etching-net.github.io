@@ -33,7 +33,7 @@ Here are three ways you can help right now:
    ([More about Ordinals](https://ordinals.com/), including how to inscribe a digital artifact yourself...)  
 
 2. [**SHARE**](http://etching.net) - Tell your friends (especially the doubters!) to visit [etching.net](http://etching.net)  
-   so they can see for themselves what blockchain technology is doing for people across the world.
+   so they can see for themselves what blockchain technology is doing for people all around the planet.
 
 3. [**SUPPORT**](https://getmonero.org) – Fund new inscriptions  
    by donating Monero (XMR) to the address below.  
