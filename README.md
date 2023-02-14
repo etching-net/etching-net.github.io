@@ -47,6 +47,8 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | -------:| ---------------------------------------------------- |:------:|:---------:|
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
 | [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | PDF | SCIENCE |
+| [1225514403205417](https://ordinals.com/sat/1225514403205417) | BUDDHA - DISCOURSE ON LOVING-FRIENDLINESS | TEXT | RELIGION |
+| [1523586494154435](https://ordinals.com/sat/1523586494154435) | JESUS - SERMON ON THE MOUNT | TEXT | RELIGION |
 | [1922840005913310](https://ordinals.com/sat/1922840005913310) | CONSTITUTION OF THE UNITED STATES | TEXT | HISTORY |
 | [1922840005901100](https://ordinals.com/sat/1922840005901100) | DELARATION OF INDEPENDENCE | TEXT | HISTORY |
 | [1447382445812188](https://ordinals.com/sat/1447382445812188) | DELARATION OF INDEPENDENCE | IMAGE | HISTORY |
