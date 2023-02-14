@@ -3,7 +3,7 @@
 
 ### What is this?
 
-**Etching.net** offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that preserve seminal works with longstanding cultural value.  
+[**Etching.net**](http://etching.net) offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that preserve seminal works with longstanding cultural value.  
 Anyone can contribute a record to the index!
 
 
