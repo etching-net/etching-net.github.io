@@ -56,4 +56,4 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1745928628280026](https://ordinals.com/sat/1745928628280026) | HOLY BIBLE - JAMES, CHAPTERS 1-5 | TEXT | RELIGION |
 | [1589162660472716](https://ordinals.com/sat/1589162660472716) | DA VINCI - MONA LISA | IMAGE | ART |
 | [1924963397085364](https://ordinals.com/sat/1924963397085364) | MICHELANGELO	- THE CREATION OF ADAM | IMAGE | ART |
-| [1557902570451532](https://ordinals.com/sat/1557902570451532) | EARTHRISE | IMAGE | SCIENCE |
+| [1557902570451532](https://ordinals.com/sat/1557902570451532) | APOLLO 8 - EARTHRISE | IMAGE | SCIENCE |
