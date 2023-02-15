@@ -44,7 +44,6 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 
 | Ordinal | Artifact                                             | Medium | Field     |
 | -------:| ---------------------------------------------------- |:------:|:---------:|
-| [1914982294760455](https://ordinals.com/sat/1914982294760455) | ETCHING.NET - DIGITAL ARTIFACT INDEX 1 | JSON | HISTORY |
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
 | [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | PDF | SCIENCE |
 | [1225514403205417](https://ordinals.com/sat/1225514403205417) | BUDDHA - DISCOURSE ON LOVING-FRIENDLINESS | TEXT | RELIGION |
@@ -63,7 +62,9 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1924963397085364](https://ordinals.com/sat/1924963397085364) | MICHELANGELO	- THE CREATION OF ADAM | IMAGE | ART |
 | [1382553585296193](https://ordinals.com/sat/1382553585296193) | MOON PHOTOGRAPH | IMAGE | SCIENCE |
 | [1382553585521485](https://ordinals.com/sat/1382553585521485) | NASH - NONCOOPERATIVE GAMES | PDF | SCIENCE |
+| [1523586494857181](https://ordinals.com/sat/1523586494857181) | POE - ANNABEL LEE | TEXT | ART |
+| [1382553585876592](https://ordinals.com/sat/1382553585876592) | POE - THE RAVEN | TEXT | ART |
 | [948117491120983](https://ordinals.com/sat/948117491120983) | TIANANMEN SQUARE | IMAGE | HISTORY |
 | [1225514403242330](https://ordinals.com/sat/1225514403242330) | WHITMAN - O CAPTAIN! MY CAPTAIN! | TEXT | ART |
-
-
+| [1914982294783175](https://ordinals.com/sat/1914982294783175) | ETCHING.NET - DIGITAL ARTIFACT INDEX 1 | HTML | HISTORY |
+| [1914982294760455](https://ordinals.com/sat/1914982294760455) | ETCHING.NET - DIGITAL ARTIFACT INDEX 1 | JSON | HISTORY |
