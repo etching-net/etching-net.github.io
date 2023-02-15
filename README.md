@@ -1,10 +1,9 @@
-# DIGITAL ARTIFACT INDEX
+# [etching.net](http://etching.net)
 ###### *Preserving seminal knowledge and culture on the immutable ledger of Bitcoin*
 
 ### What is this?
 
-[**Etching.net**](http://etching.net) offers a volunteer-curated [list of Bitcoin digital artifacts](#bitcoin-artifacts-by-ordinal) that preserve seminal works with longstanding cultural value.  
-Anyone can contribute a record to the index!
+Welcome to etching.net's [**DIGITAL ARTIFACT INDEX**](#digital-artifact-index), a volunteer-curated list of Bitcoin digital artifacts that preserve seminal works with longstanding cultural value.  Anyone can contribute a record to the index!
 
 
 ### Why though?
@@ -41,7 +40,7 @@ Here are three ways you can help right now:
 Good luck! May you enjoy a peaceful day of good health and a night of happy dreams 🙂
 
 
-## DIGITAL ARTIFACT INDEX
+# DIGITAL ARTIFACT INDEX
 
 | Ordinal | Artifact                                             | Medium | Field     |
 | -------:| ---------------------------------------------------- |:------:|:---------:|
