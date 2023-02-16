@@ -113,5 +113,4 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1225514403242330](https://ordinals.com/sat/1225514403242330) | WHITMAN - O CAPTAIN! MY CAPTAIN! | TEXT | ART |
 | [1534430655087966](https://ordinals.com/sat/1534430655087966) | WHITMAN - SONG OF MYSELF | TEXT | ART |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
-| [1914982294783175](https://ordinals.com/sat/1914982294783175) | ETCHING.NET - DIGITAL ARTIFACT INDEX 1 | HTML | HISTORY |
-| [1914982294760455](https://ordinals.com/sat/1914982294760455) | ETCHING.NET - DIGITAL ARTIFACT INDEX 1 | JSON | HISTORY |
+| [1534430655284860](https://ordinals.com/sat/1534430655284860) | ETCHING.NET - DIGITAL ARTIFACT INDEX 2 | HTML | HISTORY |
