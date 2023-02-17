@@ -116,6 +116,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1923420089154406](https://ordinals.com/sat/1923420089154406) | SHAKESPEARE - HAMLET | TEXT | ART |
 | [1297028745481299](https://ordinals.com/sat/1297028745481299) | SHAKESPEARE - JULIUS CAESAR | TEXT | ART |
 | [1781833496969148](https://ordinals.com/sat/1781833496969148) | SHAKESPEARE - KING LEAR | TEXT | ART |
+| [1297028745562627](https://ordinals.com/sat/1297028745562627) | SHAKESPEARE - MACBETH | TEXT | ART |
 | [252814439447381](https://ordinals.com/sat/252814439447381) | SHAKESPEARE - OTHELLO | TEXT | ART |
 | [1919259819930934](https://ordinals.com/sat/1919259819930934) | SHAKESPEARE - ROMEO AND JULIET | TEXT | ART |
 | [1297028745404172](https://ordinals.com/sat/1297028745404172) | SHAKESPEARE - SONNETS | TEXT | ART |
