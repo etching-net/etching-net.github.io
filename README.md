@@ -233,7 +233,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [297577610512114](https://ordinals.com/sat/297577610512114) | VAN GOGH - SELF-PORTRAIT | IMAGE | ART |
 | [1523586495513944](https://ordinals.com/sat/1523586495513944) | VAN GOGH - STARRY NIGHT | IMAGE | ART |
 | [1225514403242330](https://ordinals.com/sat/1225514403242330) | WHITMAN - O CAPTAIN! MY CAPTAIN! | TEXT | ART |
-| [872940276192660](https://ordinals.com/sat/872940276192660) | WHITMAN - PIPE | IMAGE | HISTORY |
+| [872940276192660](https://ordinals.com/sat/872940276192660) | WHITMAN - PORTRAIT | IMAGE | HISTORY |
 | [1534430655087966](https://ordinals.com/sat/1534430655087966) | WHITMAN - SONG OF MYSELF | TEXT | ART |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
 | [1773149794694247](https://ordinals.com/sat/1780832693064017) | ETCHING.NET - DIGITAL ARTIFACT INDEX 5 | HTML | HISTORY |
