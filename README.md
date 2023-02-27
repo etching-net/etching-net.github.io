@@ -296,6 +296,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [872940278036437](https://ordinals.com/sat/872940278036437) | POE - PORTRAIT | IMAGE | HISTORY |
 | [1382553585876592](https://ordinals.com/sat/1382553585876592) | POE - THE RAVEN | TEXT | ART |
 | [812123965387752](https://ordinals.com/sat/812123965387752) | QI - TWELVE LANDSCAPE SCREENS | IMAGE | ART |
+| [966326832822755](https://ordinals.com/sat/966326832822755) | RAPHAEL - SCUOLA DI ATENE | IMAGE | ART |
 | [1925634349800585](https://ordinals.com/sat/1925634349800585) | REMBRANDT - DE NACHTWACHT | IMAGE | ART |
 | [1780066058020676](https://ordinals.com/sat/1780066058020676) | RODARMOR - ORDINAL NUMBERS | TEXT | SCIENCE |
 | [1780066058219409](https://ordinals.com/sat/1780066058219409) | RODARMOR - PORTRAIT | IMAGE | HISTORY |
