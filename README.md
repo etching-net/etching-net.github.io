@@ -368,6 +368,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [297577610512114](https://ordinals.com/sat/297577610512114) | VAN GOGH - SELF-PORTRAIT | IMAGE | ART |
 | [1071177566717225](https://ordinals.com/sat/1071177566717225) | VĀTSYĀYANA - THE KAMA SUTRA | TEXT | HISTORY |
 | [534100499717849](https://ordinals.com/sat/534100499717849) | VERMEER - GIRL WITH A PEARL EARRING | IMAGE | ART |
+| [1112524671990120](https://ordinals.com/sat/1112524671990120) | VERMEER - GIRL WITH A PEARL EARRING V2 (high res photorealistic) | IMAGE | ART |
 | [1539722439094151](https://ordinals.com/sat/1539722439094151) | VERMEER - SELF-PORTRAIT | IMAGE | ART |
 | [1919088522303956](https://ordinals.com/sat/1919088522303956) | WELLS - THE INVISIBLE MAN | TEXT | ART |
 | [1225514403242330](https://ordinals.com/sat/1225514403242330) | WHITMAN - O CAPTAIN! MY CAPTAIN! | TEXT | ART |
