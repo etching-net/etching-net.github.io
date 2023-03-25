@@ -50,6 +50,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1523586494154435](https://ordinals.com/sat/1523586494154435) | JESUS - SERMON ON THE MOUNT | TEXT | RELIGION |
 | [1225514403256383](https://ordinals.com/sat/1225514403256383) | AESOP - FABLES | TEXT | ART |
 | [1699518292891700](https://ordinals.com/sat/1699518292891700) | AESOP - PORTRAIT | IMAGE | ART |
+| [1015240021526433](https://ordinals.com/sat/1015240021526433) | A. A. MILNE - WINNIE THE POOH | TEXT | ART |
 | [297577612663276](https://ordinals.com/sat/297577612663276) | ALDRIN -  PORTRAIT | IMAGE | HISTORY |
 | [1557902570451532](https://ordinals.com/sat/1557902570451532) | APOLLO 8 - EARTHRISE | IMAGE | SCIENCE |
 | [1204004618480302](https://ordinals.com/sat/1204004618480302) | APOLLO 8 - EARTHRISE BLACK AND WHITE | IMAGE | SCIENCE |
