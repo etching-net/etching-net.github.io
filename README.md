@@ -154,7 +154,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [807450667009493](https://ordinals.com/sat/807450667009493) | DOSTOEVSKY - THE DOUBLE | TEXT | ART |
 | [1773149794395348](https://ordinals.com/sat/1773149794395348) | EARHART - AVIATION | AUDIO | HISTORY |
 | [1204004617154271](https://ordinals.com/sat/1204004617154271) | EARHART - PORTRAIT | IMAGE | HISTORY |
-| [872940279951035](https://ordinals.com/sat/872940279951035) | EARHART - STANDING | IMAGE | HISTORY |
+| [872940279951035](https://ordinals.com/sat/872940279951035) | EARHART - PORTRAIT STANDING | IMAGE | HISTORY |
 | [1539722439441634](https://ordinals.com/sat/1539722439441634) | EARTH - TOPOGRAPHIC MAP | IMAGE | SCIENCE |
 | [1919259820058201](https://ordinals.com/sat/1919259820058201) | EDISON - ELECTRICITY | AUDIO | HISTORY | 
 | [1922595029127055](https://ordinals.com/sat/1922595029127055) | EDISON - FIRST RECORDING | AUDIO | SCIENCE | 
@@ -377,4 +377,4 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | XIZHI - ORCHID PAVILION PREFACE | IMAGE | HISTORY |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
 | [1741300640818381](https://ordinals.com/sat/1741300640818381) | ETCHING.NET - DIGITAL ARTIFACT INDEX 6 | HTML | HISTORY |
-| [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PUBLIC PGP KEY | ASC | HOW-TO |
+| [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
