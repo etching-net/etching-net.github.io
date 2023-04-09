@@ -376,5 +376,5 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1534430655087966](https://ordinals.com/sat/1534430655087966) | WHITMAN - SONG OF MYSELF | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | XIZHI - ORCHID PAVILION PREFACE | IMAGE | HISTORY |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
-| [1741300640818381](https://ordinals.com/sat/1741300640818381) | ETCHING.NET - DIGITAL ARTIFACT INDEX 6 | HTML | HISTORY |
+| [868113469952997](https://ordinals.com/sat/868113469952997) | ETCHING.NET - DIGITAL ARTIFACT INDEX 7 | HTML | HISTORY |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
