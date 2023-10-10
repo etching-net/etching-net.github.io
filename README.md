@@ -452,4 +452,5 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1163740206200813](https://ordinals.com/sat/1163740206200813) | 中国古文名篇 [ANCIENT CHINESE CLASSICS] | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |
 | [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY |
+| [1621255017145053](https://ordinals.com/sat/1621255017145053) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | JSON | HISTORY |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
