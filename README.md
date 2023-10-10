@@ -379,6 +379,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1243483882459573](https://ordinals.com/sat/1243483882459573) | SHUSTER - ACTION COMICS #1 | IMAGE | ART |
 | [1243483882437052](https://ordinals.com/sat/1243483882437052) | SHUSTER - PORTRAIT | IMAGE | HISTORY |
 | [1072320555586907](https://ordinals.com/sat/1072320555586907) | SHUSTER - SUPERMAN #1 | IMAGE | ART |
+| [1924524561789196](https://ordinals.com/sat/1924524561789196) | SILVERSTEIN - PORTRAIT | IMAGE | HISTORY |
 | [1575135278953797](https://ordinals.com/sat/1575135278953797) | SILVERSTEIN - THE GIVING TREE | PDF | ART |
 | [426364429718577](https://ordinals.com/sat/426364429718577) | SOLAR SYSTEM - DIAGRAM | IMAGE | SCIENCE |
 | [1741300641341168](https://ordinals.com/sat/1741300641341168) | SOLAR SYSTEM - PLANET EARTH | IMAGE | SCIENCE |
@@ -450,5 +451,5 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [831415413395028](https://ordinals.com/sat/831415413395028) | שמות [EXODUS] | TEXT | RELIGION |
 | [1163740206200813](https://ordinals.com/sat/1163740206200813) | 中国古文名篇 [ANCIENT CHINESE CLASSICS] | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |
-| [868113469952997](https://ordinals.com/sat/868113469952997) | ETCHING.NET - DIGITAL ARTIFACT INDEX 7 | HTML | HISTORY |
+| [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
