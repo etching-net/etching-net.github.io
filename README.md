@@ -277,6 +277,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [872940276508174](https://ordinals.com/sat/872940276508174) | LONDON - PORTRAIT | IMAGE | HISTORY |
 | [1897363530682747](https://ordinals.com/sat/1897363530682747) | LONDON - THE CALL OF THE WILD | TEXT | ART |
 | [1921851812975693](https://ordinals.com/sat/1921851812975693) | LONDON - TO BUILD A FIRE | TEXT | ART |
+| [875547584736633](https://ordinals.com/sat/875547584736633) | LOVECRAFT - PORTRAIT | IMAGE | HISTORY |
 | [1144612707836215](https://ordinals.com/sat/1144612707836215) | LOVECRAFT - THE CALL OF CTHULHU | TEXT | ART |
 | [872940276992080](https://ordinals.com/sat/872940276992080) | MACHIAVELLI - PORTRAIT | IMAGE | HISTORY |
 | [1439825198178092](https://ordinals.com/sat/1439825198178092) | MACHIAVELLI - THE PRINCE | TEXT | HISTORY |
