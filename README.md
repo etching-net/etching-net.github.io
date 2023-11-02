@@ -450,10 +450,10 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [789074271936505](https://ordinals.com/sat/789074271936505) | WOOLF - TO THE LIGHTHOUSE | TEXT | ART |
 | [1193364160470116](https://ordinals.com/sat/1193364160470116) | WORLD BANK - POPULATION TOTAL, 2022 REVISION | JSON | HISTORY |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
-| [1429365639837883](https://ordinals.com/sat/1429365639837883) | בְּמִדְבַּר [NUMBERS] | TEXT | RELIGION |
-| [1429365641712883](https://ordinals.com/sat/1429365641712883) | דברים [DEUTERONOMY] | TEXT | RELIGION |
-| [1429365637962883](https://ordinals.com/sat/1429365637962883) | וַיִּקְרָא [LEVITICUS] | TEXT | RELIGION |
-| [831415413395028](https://ordinals.com/sat/831415413395028) | שמות [EXODUS] | TEXT | RELIGION |
+| [1429365639837883](https://ordinals.com/sat/1429365639837883) | תּוֹרָה [TORAH] - בְּמִדְבַּר [NUMBERS] | TEXT | RELIGION |
+| [1429365641712883](https://ordinals.com/sat/1429365641712883) | תּוֹרָה [TORAH] - דברים [DEUTERONOMY] | TEXT | RELIGION |
+| [1429365637962883](https://ordinals.com/sat/1429365637962883) | תּוֹרָה [TORAH] - וַיִּקְרָא [LEVITICUS] | TEXT | RELIGION |
+| [831415413395028](https://ordinals.com/sat/831415413395028) | תּוֹרָה [TORAH] - שמות [EXODUS] | TEXT | RELIGION |
 | [1163740206200813](https://ordinals.com/sat/1163740206200813) | 中国古文名篇 [ANCIENT CHINESE CLASSICS] | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |
 | [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY |
