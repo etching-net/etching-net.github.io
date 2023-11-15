@@ -45,7 +45,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | Ordinal | Artifact                                             | Medium | Field     |
 | -------:| ---------------------------------------------------- |:------:|:---------:|
 | [0](https://ordinals.com/sat/0) | BITCOIN GENESIS SATOSHI | OTHER | SCIENCE |
-| [1763605954827093](https://ordinals.com/sat/1763605954827093) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | PDF | SCIENCE |
+| [1821640950535556](https://ordinals.com/sat/1821640950535556) | BITCOIN: A PEER-TO-PEER ELECTRONIC CASH SYSTEM | PDF | SCIENCE |
 | [1225514403205417](https://ordinals.com/sat/1225514403205417) | BUDDHA - DISCOURSE ON LOVING-FRIENDLINESS | TEXT | RELIGION |
 | [1523586494154435](https://ordinals.com/sat/1523586494154435) | JESUS - SERMON ON THE MOUNT | TEXT | RELIGION |
 | [1225514403256383](https://ordinals.com/sat/1225514403256383) | AESOP - FABLES | TEXT | ART |
