@@ -382,6 +382,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1919259819930934](https://ordinals.com/sat/1919259819930934) | SHAKESPEARE - ROMEO AND JULIET | TEXT | ART |
 | [1297028745404172](https://ordinals.com/sat/1297028745404172) | SHAKESPEARE - SONNETS | TEXT | ART |
 | [1923402035930343](https://ordinals.com/sat/1923402035930343) | SHAKESPEARE - THE TEMPEST | TEXT | ART |
+| [1932569556141619](https://ordinals.com/sat/1932569556141619) | SHELLEY - OZYMANDIAS | TEXT | ART |
 | [1243483882459573](https://ordinals.com/sat/1243483882459573) | SHUSTER - ACTION COMICS #1 | IMAGE | ART |
 | [1243483882437052](https://ordinals.com/sat/1243483882437052) | SHUSTER - PORTRAIT | IMAGE | HISTORY |
 | [1072320555586907](https://ordinals.com/sat/1072320555586907) | SHUSTER - SUPERMAN #1 | IMAGE | ART |
