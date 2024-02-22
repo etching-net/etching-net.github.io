@@ -283,6 +283,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [872940276992080](https://ordinals.com/sat/872940276992080) | MACHIAVELLI - PORTRAIT | IMAGE | HISTORY |
 | [1439825198178092](https://ordinals.com/sat/1439825198178092) | MACHIAVELLI - THE PRINCE | TEXT | HISTORY |
 | [1659268659836544](https://ordinals.com/sat/1659268659836544) | MARX, ENGELS - MANIFESTO OF THE COMMUNIST PARTY | TEXT | HISTORY |
+| [1431707411267487](https://ordinals.com/sat/1431707411267487) | MAHĀBHĀRATA [महाभारतम्] - BHAGAVAD GITA [भगवद्गीता].txt | TEXT | RELIGION |
 | [394947735816](https://ordinals.com/sat/394947735816) | MAHĀYĀNA [大乘] - PLATFORM SUTRA OF THE SIXTH PATRIARCH [六祖壇經] 1/5 | TEXT | RELIGION |
 | [394947735815](https://ordinals.com/sat/394947735815) | MAHĀYĀNA [大乘] - PLATFORM SUTRA OF THE SIXTH PATRIARCH [六祖壇經] 2/5 | TEXT | RELIGION |
 | [394947735814](https://ordinals.com/sat/394947735814) | MAHĀYĀNA [大乘] - PLATFORM SUTRA OF THE SIXTH PATRIARCH [六祖壇經] 3/5 | TEXT | RELIGION |
@@ -412,6 +413,27 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1225514403099958](https://ordinals.com/sat/1225514403099958) | SUN TZŬ [孫子] - THE ART OF WAR [兵法] | TEXT | HOW-TO |
 | [1318453706720157](https://ordinals.com/sat/1318453706720157) | SWIGERT - HOUSTON, WE'VE HAD A PROBLEM | AUDIO | HISTORY | 
 | [297577613548888](https://ordinals.com/sat/297577613548888) | SWIGERT - PORTRAIT | IMAGE | HISTORY |
+| [1200012169955870](https://ordinals.com/sat/1200012169955870) | SYMBOL - BUDDHIST DHAMMACAKKA.svg | SVG | RELIGION |
+| [1180566299602110](https://ordinals.com/sat/1180566299602110) | SYMBOL - CHRISTIAN CROSS (🕇).svg | SVG | RELIGION |
+| [1501555843601202](https://ordinals.com/sat/1501555843601202) | SYMBOL - CHRISTIAN ICHTHYS [ἰΧΘΎΣ].svg | SVG | RELIGION |
+| [164544686353995](https://ordinals.com/sat/164544686353995) | SYMBOL - EGYPTIAN ANKH [ꜤNḪ] (☥).svg | SVG | HISTORY |
+| [1316727823701453](https://ordinals.com/sat/1316727823701453) | SYMBOL - EGYPTIAN EYE OF HORUS (𓂀).svg | SVG | HISTORY |
+| [1802029058619836](https://ordinals.com/sat/1802029058619836) | SYMBOL - EGYPTIAN OUROBOROS.svg | SVG | HISTORY |
+| [609062798495190](https://ordinals.com/sat/609062798495190) | SYMBOL - EYE OF PROVIDENCE.svg | SVG | RELIGION |
+| [1200012170088514](https://ordinals.com/sat/1200012170088514) | SYMBOL - FIBONACCI SPIRAL.svg | SVG | HISTORY |
+| [1180566299617971](https://ordinals.com/sat/1180566299617971) | SYMBOL - GREEK CADUCEUS [ΚΗΡΎΚΕΙΟΝ] (☤).svg | SVG | HISTORY |
+| [164544686385407](https://ordinals.com/sat/164544686385407) | SYMBOL - HAMSA [خمسة] (🪬).svg | SVG | HISTORY |
+| [1802029058657109](https://ordinals.com/sat/1802029058657109) | SYMBOL - HINDU OM [ॐ] (🕉︎).svg | SVG | RELIGION |
+| [281682320672816](https://ordinals.com/sat/281682320672816) | SYMBOL - INFINITY (∞).svg | SVG | SCIENCE |
+| [1501555843619027](https://ordinals.com/sat/1501555843619027) | SYMBOL - ISLAMIC STAR AND CRESCENT (☪︎).svg | SVG | RELIGION |
+| [1938379752660197](https://ordinals.com/sat/1938379752660197) | SYMBOL - JUDAIC MENORAH [מְנוֹרָה] (🕎︎).svg | SVG | RELIGION |
+| [1938379752704063](https://ordinals.com/sat/1938379752704063) | SYMBOL - JUDAIC STAR OF DAVID [מָגֵן דָּוִד] (✡).svg | SVG | RELIGION |
+| [1501555843639716](https://ordinals.com/sat/1501555843639716) | SYMBOL - MINOAN LABYRINTH.svg | SVG | HISTORY |
+| [609062798514081](https://ordinals.com/sat/609062798514081) | SYMBOL - NAẒAR [‏نَظَر] (🧿).svg | SVG | HISTORY |
+| [1200012170178967](https://ordinals.com/sat/1200012170178967) | SYMBOL - NEOLITHIC TRISKELION.svg | SVG | HISTORY |
+| [164544686419283](https://ordinals.com/sat/164544686419283) | SYMBOL - PAGAN PENTACLE (⛧).svg | SVG | HISTORY |
+| [1518799248668347](https://ordinals.com/sat/1518799248668347) | SYMBOL - PEACE AND NUCLEAR DISARMAMENT (☮).svg | SVG | HISTORY |
+| [281682320695503](https://ordinals.com/sat/281682320695503) | SYMBOL - TAOIST TAIJITU YIN-YANG [太極圖] (☯︎).svg | SVG | HISTORY |
 | [1108479014380964](https://ordinals.com/sat/1108479014380964) | TAYTU BETUL [ጣይቱ ብጡል] - PORTRAIT | IMAGE | HISTORY |
 | [948117491120983](https://ordinals.com/sat/948117491120983) | TIANANMEN SQUARE [天安門廣場] - TANK MAN A | IMAGE | HISTORY |
 | [534100498970515](https://ordinals.com/sat/534100498970515) | TIANANMEN SQUARE [天安門廣場] - TANK MAN B | IMAGE | HISTORY |
