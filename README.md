@@ -123,6 +123,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1773149795153564](https://ordinals.com/sat/1773149795153564) | BROWNE - THÍCH QUẢNG ĐỨC COMPOSITION | IMAGE | HISTORY |
 | [1780066058297785](https://ordinals.com/sat/1780066058297785) | BROWNE - THÍCH QUẢNG ĐỨC SELF-IMMOLATION | IMAGE | HISTORY |
 | [723494099230050](https://ordinals.com/sat/723494099230050) | BRUEGEL - THE TOWER OF BABEL | IMAGE | ART |
+| [1462066861976466](https://ordinals.com/sat/1462066861976466) | BURGESS - A CLOCKWORK ORANGE | TEXT | ART |
 | [815283423524832](https://ordinals.com/sat/815283423524832) | CARAVAGGIO - DEPOSIZIONE | IMAGE | ART |
 | [1914982294875147](https://ordinals.com/sat/1914982294875147) | CHEMISTRY - PERIODIC TABLE OF THE ELEMENTS | IMAGE | SCIENCE |
 | [534100499057795](https://ordinals.com/sat/534100499057795) | CHIM - PORTRAIT | IMAGE | HISTORY |
@@ -240,6 +241,7 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1225514402823581](https://ordinals.com/sat/1225514402823581) | HOMER - THE ODYSSEY I-XII | TEXT | ART |
 | [1788037605248653](https://ordinals.com/sat/1788037605248653) | HOMER - THE ODYSSEY XIII-XXIV | TEXT | ART |
 | [1821640950441336](https://ordinals.com/sat/1821640950441336) | HUGHES - A CYPHERPUNK'S MANIFESTO | TEXT | HISTORY |
+| [1926698585971433](https://ordinals.com/sat/1926698585971433) | HUXLEY - BRAVE NEW WORLD | TEXT | ART |
 | [1227453318448310](https://ordinals.com/sat/1227453318448310) | INDIA - TAJ MAHAL | IMAGE | HISTORY |
 | [1926150624325482](https://ordinals.com/sat/1926150624325482) | INGRES - GRANDE ODALISQUE | IMAGE | ART |
 | [534100498638974](https://ordinals.com/sat/534100498638974) | JOBS - JOB APPLICATION | IMAGE | HISTORY |
@@ -476,12 +478,14 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [789074271936505](https://ordinals.com/sat/789074271936505) | WOOLF - TO THE LIGHTHOUSE | TEXT | ART |
 | [1193364160470116](https://ordinals.com/sat/1193364160470116) | WORLD BANK - POPULATION TOTAL, 2022 REVISION | JSON | HISTORY |
 | [1058085892225363](https://ordinals.com/sat/1058085892225363) | บทสวด ปฏิจจสมุปบาท [HYMNS] | TEXT | RELIGION |
+| [1245030971413639](https://ordinals.com/sat/1245030971413639) | תּוֹרָה [TORAH] - בראשית [GENESIS] | TEXT | RELIGION |
 | [1429365639837883](https://ordinals.com/sat/1429365639837883) | תּוֹרָה [TORAH] - בְּמִדְבַּר [NUMBERS] | TEXT | RELIGION |
 | [1429365641712883](https://ordinals.com/sat/1429365641712883) | תּוֹרָה [TORAH] - דברים [DEUTERONOMY] | TEXT | RELIGION |
 | [1429365637962883](https://ordinals.com/sat/1429365637962883) | תּוֹרָה [TORAH] - וַיִּקְרָא [LEVITICUS] | TEXT | RELIGION |
 | [831415413395028](https://ordinals.com/sat/831415413395028) | תּוֹרָה [TORAH] - שמות [EXODUS] | TEXT | RELIGION |
 | [1163740206200813](https://ordinals.com/sat/1163740206200813) | 中国古文名篇 [ANCIENT CHINESE CLASSICS] | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |
+| [1187117119342138](https://ordinals.com/sat/1187117119342138) | القرآن [QURAN] - سُوْرَۃُ [CHAPTER] 1-6 | TEXT | RELIGION |
 | [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY |
 | [1621255017145053](https://ordinals.com/sat/1621255017145053) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | JSON | HISTORY |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
