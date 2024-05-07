@@ -486,12 +486,12 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1429365641712883](https://ordinals.com/sat/1429365641712883) | תּוֹרָה [TORAH] - דברים [DEUTERONOMY] | TEXT | RELIGION |
 | [1429365637962883](https://ordinals.com/sat/1429365637962883) | תּוֹרָה [TORAH] - וַיִּקְרָא [LEVITICUS] | TEXT | RELIGION |
 | [831415413395028](https://ordinals.com/sat/831415413395028) | תּוֹרָה [TORAH] - שמות [EXODUS] | TEXT | RELIGION |
+| [1187117119342138](https://ordinals.com/sat/1187117119342138) | القرآن [QURAN] - سُوْرَۃُ [CHAPTER] 1-6 | TEXT | RELIGION |
 | [1163740206200813](https://ordinals.com/sat/1163740206200813) | 中国古文名篇 [ANCIENT CHINESE CLASSICS] | TEXT | ART |
 | [405730822457055](https://ordinals.com/sat/405730822457055) | 李白 [LI BAI] - 静夜思 [QUIET NIGHT THOUGHTS] | TEXT | ART |
 | [1200161906831369](https://ordinals.com/sat/1200161906831369) | 唐 [TANG] - 诗三百首 [THREE HUNDRED POEMS] | TEXT | ART |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |
 | [405730822471082](https://ordinals.com/sat/405730822471082) | 王之涣 [WANG ZHIHUAN] - 登高 [ASCENDING] | TEXT | ART |
-| [1187117119342138](https://ordinals.com/sat/1187117119342138) | القرآن [QURAN] - سُوْرَۃُ [CHAPTER] 1-6 | TEXT | RELIGION |
 | [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY |
 | [1621255017145053](https://ordinals.com/sat/1621255017145053) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | JSON | HISTORY |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |
