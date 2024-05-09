@@ -492,6 +492,6 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1200161906831369](https://ordinals.com/sat/1200161906831369) | 唐 [TANG] - 诗三百首 [THREE HUNDRED POEMS] | TEXT | ART |  |
 | [1781223900937255](https://ordinals.com/sat/1781223900937255) | 王羲之 [WANG XIZHI] - 蘭亭集序 [ORCHID PAVILION PREFACE] | IMAGE | HISTORY |  |
 | [405730822471082](https://ordinals.com/sat/405730822471082) | 王之涣 [WANG ZHIHUAN] - 登高 [ASCENDING] | TEXT | ART |  |
-| [1621255017073491](https://ordinals.com/sat/1621255017073491) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | HTML | HISTORY | [🌙](https://ordinals.com/rune/ETCHING•DOT•NET) |
+| [1959761897107979](https://ordinals.com/sat/1959761897107979) | ETCHING.NET - DIGITAL ARTIFACT INDEX 9 | HTML | HISTORY | [🌙](https://ordinals.com/rune/ETCHING•DOT•NET) |
 | [1621255017145053](https://ordinals.com/sat/1621255017145053) | ETCHING.NET - DIGITAL ARTIFACT INDEX 8 | JSON | HISTORY |  |
 | [1534430655325919](https://ordinals.com/sat/1534430655325919) | ETCHING.NET - PGP PUBLIC KEY | ASC | HOW-TO |  |
