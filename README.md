@@ -455,8 +455,8 @@ Good luck! May you enjoy a peaceful day of good health and a night of happy drea
 | [1917904549864541](https://ordinals.com/sat/1917904549864541) | UNITED STATES - UAP GRUSCH TESTIMONY, JULY 2023 | PDF | HISTORY |  |
 | [764097653440919](https://ordinals.com/sat/764097653440919) | UNITED STATES - UNIDENTIFIED ANOMALOUS PHENOMENA (UAP) GIMBAL, JANUARY 2015 | IMAGE | HISTORY |  |
 | [1523586495513944](https://ordinals.com/sat/1523586495513944) | VAN GOGH - DE STERRENNACHT | IMAGE | ART | [🌌](https://ordinals.com/rune/VAN•GOGH•STARRY) |
-| [1780066058636163](https://ordinals.com/sat/1780066058636163) | VAN GOGH - PORTRAIT | IMAGE | HISTORY | [🎨](https://ordinals.com/rune/VAN•GOGH•VINCENT) |
-| [297577610512114](https://ordinals.com/sat/297577610512114) | VAN GOGH - SELF-PORTRAIT | IMAGE | ART |  |
+| [1780066058636163](https://ordinals.com/sat/1780066058636163) | VAN GOGH - PORTRAIT | IMAGE | HISTORY |  |
+| [297577610512114](https://ordinals.com/sat/297577610512114) | VAN GOGH - SELF-PORTRAIT | IMAGE | ART | [🎨](https://ordinals.com/rune/VAN•GOGH•VINCENT) |
 | [1071177566717225](https://ordinals.com/sat/1071177566717225) | VĀTSYĀYANA - THE KAMA SUTRA [कामसूत्र ] | TEXT | HISTORY |  |
 | [673693716785885](https://ordinals.com/sat/673693716785885) | VELÁZQUEZ - CORONATION OF THE VIRGIN | IMAGE | ART |  |
 | [1112524671990120](https://ordinals.com/sat/1112524671990120) | VERMEER - GIRL WITH A PEARL EARRING | IMAGE | ART | [⚪](https://ordinals.com/rune/GIRL•WITH•PEARL) |
